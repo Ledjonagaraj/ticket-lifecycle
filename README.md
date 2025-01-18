@@ -88,10 +88,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Online Banking Agent Jane works the issue and communicates back to user ken.
+  Online Banking Agent Jane works the issue and communicates back to user Ken and Agent John.
 </p>
 <p>
   <img src="https://i.imgur.com/Dhk7ugU.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://i.imgur.com/Wpzn3Dj.png" height="75%" width="100%" alt="Working the issue"/>
 </p>
 <p>
  She also makes sure to switch the status of the issue from open to resolved:
