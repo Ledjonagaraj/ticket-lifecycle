@@ -83,12 +83,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   <img src="https://i.imgur.com/EaftYKQ.png" height="75%" width="100%" alt="Working the issue"/>
 </p>
-<p>
-  She also makes sure to switch the status of the issue from open to resolved:
-</p>
-<p>
-  <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
-</p>
 <br />
 <br />
 <h3 align="center">Resolution</h3>
