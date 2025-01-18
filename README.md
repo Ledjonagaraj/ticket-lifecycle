@@ -35,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   User Ken creates a ticket:
 </p>
 <p>
-  <img src="https://i.imgur.com/ewueu9b.png: height="75%" width="100%" alt="Open a Ticket"/>
+  <img src="https://i.imgur.com/J6T99eD.png" height="75%" width="100%" alt="Open a Ticket"/>
 </p>
 <br />
 <br />
