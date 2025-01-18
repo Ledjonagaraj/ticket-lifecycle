@@ -45,33 +45,43 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John Doe logs in.
 </p>
 <p>
-  <img src="https://i.imgur.com/i3sa7FH.jpg" height="75%" width="100%" alt="Support agent login"/>
+  <img src="https://i.imgur.com/PtNh94E.png" height="75%" width="100%" alt="Support agent login"/>
 </p>
 <br />
 <br />
 <h3 align="center">Communication</h3>
 <br />
 <p>
-  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to Online Banking team.
 </p>
 <p>
   He makes sure to leave a proper message:
 </p>
 <p>
-  <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
+  <img src="https://i.imgur.com/1mQGfCd.png" height="75%" width="100%" alt="Communication"/>
+  <img src="https://i.imgur.com/UYXcvTE.png" height="75%" width="100%" alt="Communication"/>
 </p>
 <br />
 <br />
 <h3 align="center">Working the issue</h3>
 <br />
 <p>
-  System Administrator agent Jane Doe logs in:
+  Online Banking agent Jane Doe logs in:
 </p>
 <p>
-  <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
+  <img src="https://i.imgur.com/bWUe42x.png" height="75%" width="100%" alt="Online Banking agent login"/>
 </p>
 <p>
-  Agent Jane works the issue and communicates back to agent John.
+  Agent Jane assigns the ticket to herself.
+</p>
+<p>
+  <img src="https://i.imgur.com/mx36ZiB.png" height="75%" width="100%" alt="Online Banking agent login"/>
+</p>
+<p>
+  Agent Jane starts working on the ticket and communicates back to agent John.
+</p>
+<p>
+  <img src="https://i.imgur.com/EaftYKQ.png" height="75%" width="100%" alt="Working the issue"/>
 </p>
 <p>
   She also makes sure to switch the status of the issue from open to resolved:
@@ -84,10 +94,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
+  Online Banking Agent Jane works the issue and communicates back to user ken.
 </p>
 <p>
-  <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://i.imgur.com/Dhk7ugU.png" height="75%" width="100%" alt="Working the issue"/>
+</p>
+<p>
+ She also makes sure to switch the status of the issue from open to resolved:
+</p>
+<p>
+  <img src="https://i.imgur.com/7IXjKTu.png" height="75%" width="100%" alt="Working the issue"/>
 </p>
 <br />
 <br />
